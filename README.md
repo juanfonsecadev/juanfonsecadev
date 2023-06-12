@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como desenvolvedor front-end
 - 🌱 Estou estudando React
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfonsecadev&hide=contribs,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfonsecadev&hide=contribs,prs)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
