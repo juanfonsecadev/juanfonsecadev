@@ -1,6 +1,6 @@
 ## Olá, eu sou o Juan Fonseca!
 
-- 🔭 Atualmente trabalho como desenvolvedor front-end e designer gráfico
+- 🔭 Atualmente trabalho como desenvolvedor front-end e videomaker.
 - 🌱 Estou estudando React
 
 <div style="display: inline_block"><br>
