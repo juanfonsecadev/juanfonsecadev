@@ -1,4 +1,4 @@
-## Hello World,I am Juan Fonseca!
+## Hello World, I am Juan Fonseca!
 
 - 🔭 I currently work as a front-end developer and videomaker.
 - 🌱 I am delving into advanced studies of React.
