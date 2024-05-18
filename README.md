@@ -1,7 +1,7 @@
-## Olá, eu sou o Juan Fonseca!
+## Hello World,I am Juan Fonseca!
 
-- 🔭 Atualmente trabalho como desenvolvedor front-end e videomaker.
-- 🌱 Estou estudando React
+- 🔭 I currently work as a front-end developer and videomaker.
+- 🌱 I am delving into advanced studies of React.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
