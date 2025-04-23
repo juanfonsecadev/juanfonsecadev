@@ -1,7 +1,7 @@
 ## Hello World, I am Juan Fonseca!
 
 - 🔭 I currently work as a fullstack developer.
-- 🌱 I am delving into advanced studies of React, c#, .NET, flutter; 
+- 🌱 I am delving into advanced studies of React and c# .NET
 
 <div style="display: inline_block"><br>
   <img align="center" alt="juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
