@@ -1,6 +1,6 @@
 ## Olá, eu sou Juan 👋
 
-- 💻 Desenvolvedor Support. 
+- 💻 Desenvolvedor Suporte 
 - 🍃 Me aprofundando em .NET Core
 
 <div style="display: inline_block"><br>
